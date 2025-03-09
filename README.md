@@ -19,7 +19,7 @@ CleanArchitectureProject/
 |-- CleanArchitecture.Application/ # Lógica de negócio e casos de uso
 |-- CleanArchitecture.Domain/      # Modelos de domínio
 |-- CleanArchitecture.Infrastructure/ # Persistência de dados e serviços externos
-|-- CleanArchitecture.Tests/       # Testes unitários e de integração
+|-- CleanArchitecture.Tests/       # Testes unitários e de integração (Ainda irei implementar) 
 ```
 
 ## ⚡ Como Executar o Projeto
