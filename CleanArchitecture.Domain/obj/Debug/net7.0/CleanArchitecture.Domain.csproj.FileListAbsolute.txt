@@ -1,0 +1,11 @@
+C:\Users\rejan\Downloads\CleanArchitectureProject (2)\CleanArchitecture.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.deps.json
+C:\Users\rejan\Downloads\CleanArchitectureProject (2)\CleanArchitecture.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\Users\rejan\Downloads\CleanArchitectureProject (2)\CleanArchitecture.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\Users\rejan\Downloads\CleanArchitectureProject (2)\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rejan\Downloads\CleanArchitectureProject (2)\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\rejan\Downloads\CleanArchitectureProject (2)\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\rejan\Downloads\CleanArchitectureProject (2)\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rejan\Downloads\CleanArchitectureProject (2)\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\Users\rejan\Downloads\CleanArchitectureProject (2)\CleanArchitecture.Domain\obj\Debug\net7.0\refint\CleanArchitecture.Domain.dll
+C:\Users\rejan\Downloads\CleanArchitectureProject (2)\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\Users\rejan\Downloads\CleanArchitectureProject (2)\CleanArchitecture.Domain\obj\Debug\net7.0\ref\CleanArchitecture.Domain.dll

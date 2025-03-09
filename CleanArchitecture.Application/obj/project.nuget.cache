@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SkIWcjvXckDJOyPHQAXyYgcWUvVbGAR7+MnxLk7YTdTSGDjzqc/SNq3o6dMpJqqEI/PItxpZVjNKUNWKBrKRKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rejan\\Downloads\\CleanArchitectureProject (2)\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rejan\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\rejan\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\rejan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\rejan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

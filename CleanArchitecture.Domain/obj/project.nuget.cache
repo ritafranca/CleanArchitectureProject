@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BV+NavyOST4K4Jjh0+yTWPig8ig5jV3Giq+QI9n5d6gVgFU462SpKRJUE9DfCljNET0MBI2mErdebn1bQj/rDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rejan\\Downloads\\CleanArchitectureProject (2)\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rejan\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\rejan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\rejan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
